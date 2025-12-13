@@ -2,7 +2,7 @@ package com.example.basicsv1.singleresponsibility.solution;
 
 public class Invoice {
     public Marker marker;
-    private int quantity;   
+    private final int quantity;   
     private int total;
 
     public Invoice(Marker marker, int quantity) {

@@ -8,6 +8,7 @@ public class InvoiceDao {
         this.invoice = invoice;
     }
     public void saveToDB() {
+        System.out.println(invoice);
         System.out.println("Saving invoice to DB for "  + " marker");
     }
     public void saveToFile() {
