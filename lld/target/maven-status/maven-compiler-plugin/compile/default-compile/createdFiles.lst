@@ -3,3 +3,4 @@ com\example\behavioralpatterns\strategy\vehicledrivestrategy\solution\strategies
 com\example\behavioralpatterns\strategy\vehicledrivestrategy\solution\strategies\NormalDrive.class
 com\example\behavioralpatterns\strategy\vehicledrivestrategy\solution\context\HybridVehicle.class
 com\example\behavioralpatterns\strategy\vehicledrivestrategy\solution\strategies\DriveStrategy.class
+com\example\structuralpatterns\decorator\Veggiestopping.class
